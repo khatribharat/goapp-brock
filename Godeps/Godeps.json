@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/goapp-brock",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v77",
+	"Deps": [{
+			"ImportPath": "github.com/casbin/casbin",
+			"Rev": "v0.8.0"		
+		}]
+}
