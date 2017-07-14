@@ -1,0 +1,4 @@
+package: .
+        - package: github.com/casbin/casbin
+          version: v0.8.0
+          repo: https://github.com/casbin/casbin
